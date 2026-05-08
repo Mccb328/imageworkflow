@@ -8,11 +8,11 @@
     "github_repository": "Mccb328/imageworkflow",
     "github_raw_base": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main"
   },
-  "updated_at": "2026-05-06T06:10:26.991Z",
+  "updated_at": "2026-05-08T01:04:02.455Z",
   "screens": [
     {
       "index": 1,
-      "screen_name": "角色界面",
+      "screen_name": "巡逻挂机界面",
       "screen_type": "",
       "priority": "P0",
       "status": "待处理",
@@ -21,23 +21,23 @@
       "match_status": "matched",
       "images": [
         {
-          "image_file_id": "MKadbEUwCokNbyxs8u5cUvKcnEe",
-          "image_name": "001_角色界面.png",
-          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/001_%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2.png",
-          "image_width": 1080,
-          "image_height": 2347,
+          "image_file_id": "Kp3FbOUb1o7MDtxXlSXcbuy0nqJ",
+          "image_name": "001_巡逻挂机界面.png",
+          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/001_%E5%B7%A1%E9%80%BB%E6%8C%82%E6%9C%BA%E7%95%8C%E9%9D%A2.png",
+          "image_width": 360,
+          "image_height": 800,
           "image_source": "github_raw",
-          "original_feishu_file_token": "MKadbEUwCokNbyxs8u5cUvKcnEe",
-          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/MKadbEUwCokNbyxs8u5cUvKcnEe/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
+          "original_feishu_file_token": "Kp3FbOUb1o7MDtxXlSXcbuy0nqJ",
+          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/Kp3FbOUb1o7MDtxXlSXcbuy0nqJ/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
           "mime_type": "image/png",
-          "published_image_name": "001_角色界面.png",
-          "published_path": "images/001_角色界面.png"
+          "published_image_name": "001_巡逻挂机界面.png",
+          "published_path": "images/001_巡逻挂机界面.png"
         }
       ]
     },
     {
       "index": 2,
-      "screen_name": "主界面",
+      "screen_name": "角色界面",
       "screen_type": "",
       "priority": "P0",
       "status": "待处理",
@@ -46,17 +46,17 @@
       "match_status": "matched",
       "images": [
         {
-          "image_file_id": "XBzMbuM2SoveCUxTiEpcWYm6nhU",
-          "image_name": "002_主界面.png",
-          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/002_%E4%B8%BB%E7%95%8C%E9%9D%A2.png",
-          "image_width": 720,
-          "image_height": 1280,
+          "image_file_id": "MKadbEUwCokNbyxs8u5cUvKcnEe",
+          "image_name": "002_角色界面.png",
+          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/002_%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2.png",
+          "image_width": 1080,
+          "image_height": 2347,
           "image_source": "github_raw",
-          "original_feishu_file_token": "XBzMbuM2SoveCUxTiEpcWYm6nhU",
-          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/XBzMbuM2SoveCUxTiEpcWYm6nhU/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
+          "original_feishu_file_token": "MKadbEUwCokNbyxs8u5cUvKcnEe",
+          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/MKadbEUwCokNbyxs8u5cUvKcnEe/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
           "mime_type": "image/png",
-          "published_image_name": "002_主界面.png",
-          "published_path": "images/002_主界面.png"
+          "published_image_name": "002_角色界面.png",
+          "published_path": "images/002_角色界面.png"
         }
       ]
     },
@@ -112,7 +112,7 @@
     },
     {
       "index": 5,
-      "screen_name": "巡逻挂机界面",
+      "screen_name": "关卡详情界面",
       "screen_type": "",
       "priority": "P0",
       "status": "待处理",
@@ -121,23 +121,23 @@
       "match_status": "matched",
       "images": [
         {
-          "image_file_id": "Kp3FbOUb1o7MDtxXlSXcbuy0nqJ",
-          "image_name": "005_巡逻挂机界面.png",
-          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/005_%E5%B7%A1%E9%80%BB%E6%8C%82%E6%9C%BA%E7%95%8C%E9%9D%A2.png",
-          "image_width": 360,
-          "image_height": 800,
+          "image_file_id": "TbhZb2ipXoH9FLxAgy0c9iTcncf",
+          "image_name": "005_关卡详情界面.png",
+          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/005_%E5%85%B3%E5%8D%A1%E8%AF%A6%E6%83%85%E7%95%8C%E9%9D%A2.png",
+          "image_width": 253,
+          "image_height": 337,
           "image_source": "github_raw",
-          "original_feishu_file_token": "Kp3FbOUb1o7MDtxXlSXcbuy0nqJ",
-          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/Kp3FbOUb1o7MDtxXlSXcbuy0nqJ/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
+          "original_feishu_file_token": "TbhZb2ipXoH9FLxAgy0c9iTcncf",
+          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/TbhZb2ipXoH9FLxAgy0c9iTcncf/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
           "mime_type": "image/png",
-          "published_image_name": "005_巡逻挂机界面.png",
-          "published_path": "images/005_巡逻挂机界面.png"
+          "published_image_name": "005_关卡详情界面.png",
+          "published_path": "images/005_关卡详情界面.png"
         }
       ]
     },
     {
       "index": 6,
-      "screen_name": "关卡详情界面",
+      "screen_name": "天赋界面",
       "screen_type": "",
       "priority": "P0",
       "status": "待处理",
@@ -146,17 +146,17 @@
       "match_status": "matched",
       "images": [
         {
-          "image_file_id": "TbhZb2ipXoH9FLxAgy0c9iTcncf",
-          "image_name": "006_关卡详情界面.png",
-          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/006_%E5%85%B3%E5%8D%A1%E8%AF%A6%E6%83%85%E7%95%8C%E9%9D%A2.png",
-          "image_width": 253,
-          "image_height": 337,
+          "image_file_id": "ZVO0brem3ozLxgxo1nEc6Khlnmc",
+          "image_name": "006_天赋界面.jpg",
+          "image_url": "https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/006_%E5%A4%A9%E8%B5%8B%E7%95%8C%E9%9D%A2.jpg",
+          "image_width": 499,
+          "image_height": 881,
           "image_source": "github_raw",
-          "original_feishu_file_token": "TbhZb2ipXoH9FLxAgy0c9iTcncf",
-          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/TbhZb2ipXoH9FLxAgy0c9iTcncf/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
-          "mime_type": "image/png",
-          "published_image_name": "006_关卡详情界面.png",
-          "published_path": "images/006_关卡详情界面.png"
+          "original_feishu_file_token": "ZVO0brem3ozLxgxo1nEc6Khlnmc",
+          "original_feishu_url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/ZVO0brem3ozLxgxo1nEc6Khlnmc/?height=1280&mount_node_token=IBwzs5d2rhtjLRtohiFcP73BnZd&mount_point=sheet_image&policy=equal&width=1280",
+          "mime_type": "image/jpeg",
+          "published_image_name": "006_天赋界面.jpg",
+          "published_path": "images/006_天赋界面.jpg"
         }
       ]
     }

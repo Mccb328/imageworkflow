@@ -1,30 +1,30 @@
 # Reference Image Manifest
 
 - manifest_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/reference_manifest.json
-- updated_at: 2026-05-06T06:10:26.991Z
+- updated_at: 2026-05-08T01:04:02.455Z
 
-## 001 角色界面
+## 001 巡逻挂机界面
 - priority: P0
 - status: 待处理
 - note: 
 - source_sheet_row: 4
 - match_status: matched
 - image 1:
-  - name: 001_角色界面.png
-  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/001_%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2.png
-  - size: 1080 x 2347
+  - name: 001_巡逻挂机界面.png
+  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/001_%E5%B7%A1%E9%80%BB%E6%8C%82%E6%9C%BA%E7%95%8C%E9%9D%A2.png
+  - size: 360 x 800
   - source: github_raw
 
-## 002 主界面
+## 002 角色界面
 - priority: P0
 - status: 待处理
 - note: 
 - source_sheet_row: 5
 - match_status: matched
 - image 1:
-  - name: 002_主界面.png
-  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/002_%E4%B8%BB%E7%95%8C%E9%9D%A2.png
-  - size: 720 x 1280
+  - name: 002_角色界面.png
+  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/002_%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2.png
+  - size: 1080 x 2347
   - source: github_raw
 
 ## 003 Buff 3选1界面
@@ -51,26 +51,26 @@
   - size: 318 x 498
   - source: github_raw
 
-## 005 巡逻挂机界面
+## 005 关卡详情界面
 - priority: P0
 - status: 待处理
 - note: 
 - source_sheet_row: 8
 - match_status: matched
 - image 1:
-  - name: 005_巡逻挂机界面.png
-  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/005_%E5%B7%A1%E9%80%BB%E6%8C%82%E6%9C%BA%E7%95%8C%E9%9D%A2.png
-  - size: 360 x 800
+  - name: 005_关卡详情界面.png
+  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/005_%E5%85%B3%E5%8D%A1%E8%AF%A6%E6%83%85%E7%95%8C%E9%9D%A2.png
+  - size: 253 x 337
   - source: github_raw
 
-## 006 关卡详情界面
+## 006 天赋界面
 - priority: P0
 - status: 待处理
 - note: 
 - source_sheet_row: 9
 - match_status: matched
 - image 1:
-  - name: 006_关卡详情界面.png
-  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/006_%E5%85%B3%E5%8D%A1%E8%AF%A6%E6%83%85%E7%95%8C%E9%9D%A2.png
-  - size: 253 x 337
+  - name: 006_天赋界面.jpg
+  - image_url: https://raw.githubusercontent.com/Mccb328/imageworkflow/main/images/006_%E5%A4%A9%E8%B5%8B%E7%95%8C%E9%9D%A2.jpg
+  - size: 499 x 881
   - source: github_raw
